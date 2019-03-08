@@ -1,0 +1,32 @@
+body{
+	background-color: #080808;
+	font-size: 13px;
+	color: #fbf8f8;
+}
+span{
+	color: #34f31f;
+	font-size: 20px;
+}
+h4{
+	height: 30px;
+	width: 450px;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
+.readme{
+	font-size: 13px;
+	color: #fbf8f8;
+}
+#div_fronthead{
+	margin-bottom: 10px;
+	border: 1px  solid ; 
+	height: 30px;
+	width: 450px;
+}
+#div_left{
+	float: left;
+}
+#div_right{
+	float: right;
+}
